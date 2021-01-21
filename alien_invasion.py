@@ -22,7 +22,6 @@ class AlienInvasion:
     #TODO: Reduce number of points per alien when weapon enhancements are added.
 
     #Screen modifications:
-    #TODO: Make an instructions page that explains what keys to use.
     #TODO: Make a welcome screen with the title and created by information that displays for some amount of time before the play/instruction buttons show up. Put Play, Instructions, High Score, and Quit buttons on this page.
     #TODO: Make a level up screen.
 
